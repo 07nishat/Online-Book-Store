@@ -20,7 +20,7 @@ include 'components/wishlist_cart.php';
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Proshadhoni.com</title>
+   <title> BookStore.com</title>
 
    <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
    
@@ -45,34 +45,34 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-1.PNG" alt="">
+            <img src="images/home-img-1.png" alt="">
          </div>
          <div class="content">
-            <span>Upto 10% Off</span>
-            <h3>To all Makeup Products</h3>
-            <a href="category.php?category=makeup" class="btn">Shop Now</a>
+            <span>১০% পর্যন্ত মূল্যছাড়</span>
+            <h3>সকল ইসলামিক বই এর ওপর</h3>
+            <a href="category.php?category=Islamic Book" class="btn">Shop Now</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-2.PNG" alt="">
+            <img src="images/home-img-2.png" alt="">
          </div>
          <div class="content">
-            <span>Upto 20% off</span>
-            <h3>To All fragrances </h3>
-            <a href="category.php?category=fragrance" class="btn">Shop Now.</a>
+            <span>৪৯৯+ টাকার উপন্যাস বই অর্ডারে </span>
+            <h3>১০০০ টাকার গিফট ভাউচার জেতার আকর্ষণীয় সুযোগ</h3>
+            <a href="category.php?category= Noble Books" class="btn">Shop Now.</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-3.PNG" alt="">
+            <img src="images/home-img-3.png" alt="">
          </div>
          <div class="content">
-            <span>upto 15% off</span>  
-            <h3>To All Skin Care Products</h3>
-            <a href="category.php?category=skin care" class="btn">Shop Now.</a>
+            <span>ডেলিভারি চার্জ ফ্রি! </span>  
+            <h3>তাম্রলিপি প্রকাশনীর যেকোনো একটি বই কিনলেই</h3>
+            <a href="category.php?category=Tamralipi" class="btn">Shop Now.</a>
          </div>
       </div>
 
@@ -94,29 +94,29 @@ include 'components/wishlist_cart.php';
 
    <div class="swiper-wrapper">
 
-   <a href="category.php?category=makeup" class="swiper-slide slide">
-      <img src="images/icon-1.png" alt="">
-      <h3>Makeup</h3>
+   <a href="category.php?category=Islamic Book" class="swiper-slide slide">
+      <img src="images/icon-1.PNG" alt="">
+      <h3>ইসলামিক বই</h3>
    </a>
 
-   <a href="category.php?category=k-beauty" class="swiper-slide slide">
-      <img src="images/icon-2.PNG" alt="">
-      <h3>K-Beauty</h3>
+   <a href="category.php?category=Noble Books" class="swiper-slide slide">
+      <img src="images/icon-2.png" alt="">
+      <h3>উপন্যাস</h3>
    </a>
 
-   <a href="category.php?category=skin care" class="swiper-slide slide">
-      <img src="images/icon-3.PNG" alt="">
-      <h3>Skin Care</h3>
+   <a href="category.php?category=History and Tradition" class="swiper-slide slide">
+      <img src="images/icon-3.png" alt="">
+      <h3>ইতিহাস ও ঐতিহ্য</h3>
    </a>
 
-   <a href="category.php?category=hair care" class="swiper-slide slide">
-      <img src="images/icon-4.PNG" alt="">
-      <h3>Hair Care</h3>
+   <a href="category.php?category=Exams Preparation " class="swiper-slide slide">
+      <img src="images/icon-4.png" alt="">
+      <h3>ভর্তি নিয়োগ </h3>
    </a>
 
-   <a href="category.php?category=fragrance" class="swiper-slide slide">
-      <img src="images/icon-5.PNG" alt="">
-      <h3>Fragrance</h3>
+   <a href="category.php?category=মুক্তিযুদ্ধ" class="swiper-slide slide">
+      <img src="images/icon-5.png" alt="">
+      <h3>মুক্তিযুদ্ধ</h3>
    </a>
 
    
@@ -129,6 +129,105 @@ include 'components/wishlist_cart.php';
    </div>
 
 </section>
+
+
+
+
+<section class="category">
+
+   <h1 class="heading">Shop by Author</h1>
+
+   <div class="swiper category-slider">
+
+   <div class="swiper-wrapper">
+
+   <a href="category.php?category=হুমায়ূন আহমেদ" class="swiper-slide slide">
+      <img src="images/humayun.PNG" alt="">
+      <h3>হুমায়ূন আহমেদ</h3>
+   </a>
+
+   <a href="category.php?category=আনিসুল হক" class="swiper-slide slide">
+      <img src="images/anisul.PNG" alt="">
+      <h3>আনিসুল হক </h3>
+   </a>
+
+   <a href="category.php?category=আলী ইমাম" class="swiper-slide slide">
+      <img src="images/imam.png" alt="">
+      <h3>আলী ইমাম</h3>
+   </a>
+
+   <a href="category.php?category=সেলিনা হোসেন" class="swiper-slide slide">
+      <img src="images/selina.PNG" alt="">
+      <h3>সেলিনা হোসেন</h3>
+   </a>
+
+   <a href="category.php?category=আহমদ ছফা" class="swiper-slide slide">
+      <img src="images/ahmed.PNG" alt="">
+      <h3>আহমদ ছফা</h3>
+   </a>
+
+   
+
+
+   </div>
+
+   <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+
+
+
+<section class="category">
+
+   <h1 class="heading">Shop by Publisher</h1>
+
+   <div class="swiper category-slider">
+
+   <div class="swiper-wrapper">
+
+   <a href="category.php?category=Tamralipi" class="swiper-slide slide">
+      <img src="images/tamrolipi.jpg" alt="">
+      <h3>তাম্রলিপি</h3>
+   </a>
+
+   <a href="category.php?category=Anupam Prakashany" class="swiper-slide slide">
+      <img src="images/anupom.jpg" alt="">
+      <h3>অনুপম প্রকাশনী</h3>
+   </a>
+
+   <a href="category.php?category=Gyankosh " class="swiper-slide slide">
+      <img src="images/geankosh.jpg" alt="">
+      <h3>জ্ঞানকোষ </h3>
+   </a>
+
+   <a href="category.php?category=Adarsha " class="swiper-slide slide">
+      <img src="images/adorsho.PNG" alt="">
+      <h3>আদর্শ  </h3>
+   </a>
+
+   <a href="category.php?category=Anyaprokash" class="swiper-slide slide">
+      <img src="images/onnoprokash.JPG" alt="">
+      <h3>অন্যপ্রকাশ</h3>
+   </a>
+
+   
+
+
+   </div>
+
+   <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+
+
+
+
 
 <section class="home-products">
 
@@ -154,7 +253,7 @@ include 'components/wishlist_cart.php';
       <img src="uploaded_img/<?= $fetch_product['image_01']; ?>" alt="">
       <div class="name"><?= $fetch_product['name']; ?></div>
       <div class="flex">
-         <div class="price"><span>Nrs.</span><?= $fetch_product['price']; ?><span>/-</span></div>
+         <div class="price"><span>TK.</span><?= $fetch_product['price']; ?><span>/-</span></div>
          <input type="number" name="qty" class="qty" min="1" max="99" onkeypress="if(this.value.length == 2) return false;" value="1">
       </div>
       <input type="submit" value="add to cart" class="btn" name="add_to_cart">

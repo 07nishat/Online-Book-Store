@@ -51,11 +51,12 @@ section{
    padding:2rem;
    max-width: 1200px;
    margin:0 auto;
+   
 }
 
 .heading{
    font-size: 4rem;
-   color:var(--black);
+   color:#cd1d1d;
    margin-bottom: 2rem;
    text-align: center;
    text-transform: uppercase;
@@ -233,7 +234,7 @@ section{
 }
 
 .home-bg{
-   background:url(../images/home-bg.png) no-repeat;
+   background:url(../images/home-bg.JPG) no-repeat;
    background-size: cover;
    background-position: center;
 }
@@ -263,14 +264,14 @@ section{
 }
 
 .home-bg .home .slide .content span{
-   font-size: 2rem;
-   color:var(--white);
+   font-size: 3rem;
+   color:#b70f0f;
 }
 
 .home-bg .home .slide .content h3{
    margin-top: 1rem;
    font-size: 4rem;
-   color:var(--white);
+   color:#0cab28;
    text-transform: uppercase;
 }
 
@@ -293,6 +294,8 @@ section{
    border-radius: .5rem;
 }
 
+
+
 .category .slide:hover{
    background-color: var(--black);
 }
@@ -306,7 +309,7 @@ section{
 }
 
 .category .slide img{
-   height: 7rem;
+   height: 17rem;
    width: 100%;
    object-fit: contain;
    margin-bottom: 1rem;

@@ -89,7 +89,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-3.JPG" alt="">
-         <p>Proshadhoni provide the authentic beauty produts . I always Buy product from Proshadhoni.</p>
+         <p>BookStore.com provide excellent delivery service . I always Buy books from BookStore.com.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -102,7 +102,7 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-7.JPG" alt="">
-         <p>Using Proshadhoni for online shopping from almost 3 years. Outstanding experience with them.  </p>
+         <p>Using BookStore.com for almost 3 years. Outstanding experience with them.  </p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>

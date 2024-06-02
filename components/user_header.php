@@ -15,7 +15,7 @@
 
    <section class="flex">
 
-      <a href="home.php" class="logo">Proshadhoni<span>.Com</span></a>
+      <a href="home.php" class="logo">BookStore<span>.Com</span></a>
 
       <nav class="navbar">
          <a href="home.php">Home</a>
