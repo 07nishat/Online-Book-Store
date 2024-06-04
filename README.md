@@ -9,3 +9,6 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 4. CSS
 5. MySql
 #Screenshot
+# Homepage
+![image](https://github.com/07nishat/Online-Book-Store/assets/97042652/798d06e2-7060-4ac9-abd7-e75648007200)
+
